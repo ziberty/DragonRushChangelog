@@ -1,2 +1,0 @@
-# DragonRushChangelog
-Changelog Dragon Rush
