@@ -26,3 +26,5 @@
 - Un message est affiché lorsque la boussole est utilisée alors que personne ne possède l'œuf dans son inventaire
 - La position de la boussole est réinitialisée lorsque personne ne possède l'œuf
 - La vie du joueur ne monte plus à 15 cœurs s'il est sur sa dernière vie et que le pacte "pas de seconde chance" est activé
+
+Lien du doc : https://docs.google.com/document/d/1LfmjdChM0G3Qg1IiypbSJzmsgZu8wXpV5CSX_m1btcY/
